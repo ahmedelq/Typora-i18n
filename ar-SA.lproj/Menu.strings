@@ -25,10 +25,10 @@
 "Open Folder" = "فتح مجلد";
 "Reopen with Encoding" = "إعادة فتح مع الترميز";
 "Auto" = "تلقائي";
-"Open Recent" = "فتح ملفات حديثة";
+"Open Recent" = "فتح الملفات الأخيرة";
 "Recent Locations" = "مسارات حديثة";
-"Clear Items" = "تنظيف العناصر";
-"No Recent Files" = "لا ملفات حديثة";
+"Clear Items" = "مسح العناصر";
+"No Recent Files" = "لا توجد ملفات حديثة";
 "Open Quickly" = "فتح سريع";
 "Open File Location" = "فتح مسار الملف";
 "Reveal in Library" = "عرض في المكتبة";
@@ -40,10 +40,10 @@
 "Rename" = "إعادة تسمية";
 "Move To" = "نقل لـ";
 "Revert To" = "الرجوع لـ";
-"Browse All Versions" = "استعراض كل النسخ";
+"Browse All Versions" = "استعراض كل النسخ"; 
 "Import" = "استيراد";
 "Export" = "تصدير";
-"Page Setup" = "هيئة الصفحة";
+"Page Setup" = "إعداد الصفحة";
 "Print" = "طباعة";
 
 /* Edit Menu */
@@ -53,7 +53,7 @@
 "Cut" = "قص";
 "Copy" = "نسخ";
 "Paste" = "لصق";
-"Copy as Markdown" = "نسخ هيئة المارك داون";
+"Copy as Markdown" = " (ماركداون)نسخ كـ رموز التنسيق ";
 "Copy as HTML Code" = "نسخ كترميز HTML";
 "Paste as Plain Text" = "لصق كنص عادي";
 "Select All" = "تحديد الكل";
@@ -108,10 +108,10 @@
 "Heading 5" = "عنوان 5";
 "Heading 6" = "عنوان 6";
 "Increase Heading Level" = "زيادة مستوى العنوان";
-"Decrease Heading Level" = "تنقيص مستوى العنوان";
+"Decrease Heading Level" = "إنقاص مستوى العنوان";
 "Table" = "جدول";
-"Code Fences" = "سياج الرمز المصدري";
-"Math Block" = "قالب رموز رياضياتية";
+"Code Fences" = "سياج النص البرمجي";
+"Math Block" = "قالب رموز رياضيات";   
 "Quote" = "اقتباس";
 "Ordered List" = "قائمة مرتبة";
 "Unordered List" = "قائمة غير مرتبة";
@@ -189,8 +189,8 @@
 "Block Styles" = "أنماط مقولبة";
 "Inline Styles" = "أنماط مضمنة";
 "List Styles / Remove Block" = "إسدال الأنماط / إزالة القوالب";
-"Exit Source Code Mode" = "الخروج من وضعية الرمز المصدري";
-"Toggle Source Code Mode" = "تبديل وضعية الرمز المصدري";
+"Exit Source Code Mode" = "الخروج من وضعية النص مصدري";
+"Toggle Source Code Mode" = "تبديل وضعية النص مصدري";
 
 /* Extra Context Menu */
 "Table" = "جدول";
@@ -207,7 +207,7 @@
 "Delete Code Block" = "حذف قالب الرمز المصدري";
 "Copy as MathML" = "نسخ كـ MathML";
 "Copy as Tex" = "نسخ كـ Tex";
-"Copy Math" = "نسخ الرموز الرياضياتية";
+"Copy Math" = "نسخ الرموز الرياضية";
 "Reveal in Finder" = "إظهار في الباحث";
 "Open Link" = "فتح الرابط";
 "Reveal in Sidebar" = "فتح في القائمة الجانبية";
@@ -255,7 +255,7 @@
 "Smart Punctuation" = "علامات ترقيم ذكية";
 "Convert on Input" = "تحويل عند الإدخال";
 "Convert on Rendering" = "تحويل عند القراءة";
-"Remap Unicode Punctuation on Parse" = "Remap Unicode Punctuation on Parse";
+"Remap Unicode Punctuation on Parse" = "إعادة ترجمة علامات الترقيم Unicode عند تحليل سلسلة المحارف  ";
 "More Options" = "خيارات أكثر";
 
 "HTML Block" = "HTML قالب";
